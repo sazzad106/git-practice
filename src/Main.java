@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("practice git . Third add and  commit");
         System.out.println("practice git .  fourth add and commit");
+        System.out.println("practice git . Vul add and commit");
 
     }
 }
